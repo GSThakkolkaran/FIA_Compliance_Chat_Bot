@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+pandas
+demjson3
+sqlalchemy
+requests

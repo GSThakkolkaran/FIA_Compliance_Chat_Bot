@@ -1,0 +1,101 @@
+Company,Tax_Compliance,Audit_Compliance,Financial_Statement_Filed,AML_Compliance,Penalty_Amount,Annual_Revenue,Profit_Declared,Total_Assets,Submission_Status
+Smith-Hawkins,No,Yes,Yes,Yes,273843,11400949,8873933,72222823,Low
+White-Cruz,Yes,Yes,Yes,No,824880,23677306,4085101,29592040,Low
+Johnson PLC,Yes,Yes,No,Yes,643800,37988328,7110925,56622429,Medium
+"Thompson, Roberts and Torres",No,No,Yes,No,262216,27408324,5950887,81747965,Medium
+Smith LLC,No,No,No,No,801581,44094844,8085872,37732781,Medium
+"Briggs, Walker and Webb",No,Yes,Yes,Yes,834145,10225975,9477873,89772423,Low
+Cook-Porter,No,No,Yes,No,799581,49062060,4692781,77261171,High
+"Wilson, Williams and Anderson",No,Yes,Yes,Yes,910,34665815,9058543,48201626,High
+Perez and Sons,No,Yes,No,Yes,623905,23103080,8701787,90725649,High
+Perez-Morris,Yes,No,No,No,524124,21201218,2300628,69461982,High
+Chavez-Costa,No,No,Yes,Yes,200376,40314637,2389731,77636682,High
+Dunn-Holt,No,No,Yes,Yes,367660,9370381,5965782,63969917,Low
+"Martin, Hicks and Castaneda",Yes,No,Yes,Yes,481438,11092518,640271,20065758,Low
+"Werner, Soto and Ward",Yes,Yes,Yes,No,503147,44674103,8044450,87535539,Medium
+Berg-Roberts,Yes,No,No,Yes,706158,22363289,2665158,67318914,Low
+"Dickerson, Zuniga and Wolfe",Yes,Yes,Yes,Yes,995160,18748165,6361341,35057635,High
+"Chapman, Conway and Manning",Yes,No,Yes,No,546054,27484277,5494811,9585892,Low
+Wolfe-Arnold,Yes,Yes,No,Yes,991415,10212764,6969480,47992947,Medium
+"Smith, Coleman and Hines",Yes,No,Yes,No,33282,49045979,3093542,4761994,High
+Reid-Robles,Yes,Yes,Yes,Yes,911425,10273143,598244,77183399,Medium
+Walters-Cooper,Yes,Yes,Yes,Yes,385133,9179869,8267388,15152564,High
+Davis Group,Yes,Yes,Yes,No,218415,10511802,5380997,81211161,Medium
+Garcia Inc,No,Yes,No,No,110244,27502489,2044766,15058953,High
+Wiley LLC,No,No,No,No,758558,38833723,8807359,53647746,Medium
+Jacobs Inc,Yes,No,No,Yes,801669,28015356,9212197,16459422,High
+Hughes Ltd,Yes,Yes,No,No,341990,35659529,-352729,28117738,High
+Anderson-Green,Yes,Yes,Yes,Yes,214575,13893834,4191032,86178237,Low
+"Hatfield, Flores and Gardner",Yes,No,Yes,No,380499,29250255,2841303,57458818,Medium
+Arnold-Meyer,Yes,Yes,No,No,787844,38988638,-438395,21433631,High
+Jackson-Wu,No,Yes,No,Yes,611053,21490721,5410686,33021147,Low
+Atkins Ltd,No,Yes,Yes,Yes,324095,4184048,-164352,28598101,Medium
+Lynch LLC,No,No,Yes,Yes,397432,47033484,2720796,63728874,Low
+Nguyen Ltd,No,No,Yes,No,256203,35579050,9525754,63115300,High
+Walsh-Andrews,No,No,Yes,Yes,428365,3849425,9731490,42262362,Low
+Phillips-Davis,No,No,Yes,No,99979,43186455,2463688,45782809,High
+"Clark, Roberts and Banks",Yes,Yes,No,Yes,329496,39130776,167654,11530387,High
+Porter PLC,No,No,No,Yes,844037,49600734,5550569,37971097,Medium
+Brown-Fowler,Yes,No,Yes,No,642557,33547379,4430874,15318727,Medium
+Wolf Group,No,No,Yes,No,169809,577577,4343531,8916438,Low
+Brock-Holland,Yes,No,Yes,No,937711,14056036,349756,20883016,High
+Thomas Inc,No,Yes,No,No,686023,49128739,5701018,519822,Medium
+Frazier-Price,Yes,No,Yes,Yes,310925,12886500,799627,75977788,High
+"Marshall, Mosley and Shaw",Yes,No,Yes,No,374442,32766539,3376814,556466,High
+"Mclaughlin, Massey and Fernandez",No,No,No,No,842134,22577817,7148715,17112612,Medium
+Olsen Group,Yes,Yes,Yes,No,300521,20178592,7125829,15884813,Low
+"Davidson, Morales and Anderson",No,No,Yes,No,36834,27034024,8969095,71542463,Medium
+Sutton Group,No,Yes,Yes,Yes,973777,7253530,1242356,44878451,Medium
+"Patterson, Chen and Munoz",Yes,Yes,Yes,Yes,853346,30025708,926822,95112204,High
+Frost-Barnes,Yes,No,Yes,No,295284,38408773,6160709,18608021,High
+Jones-Wang,No,Yes,No,Yes,693339,33292214,6251213,70485301,High
+"Thompson, Young and Perez",Yes,No,Yes,No,990184,48109085,599946,77555339,Low
+Silva-Miles,No,No,No,Yes,448640,47654821,7377602,41735996,Low
+"Pena, Farrell and Rodriguez",No,Yes,No,No,931084,19340720,8084590,92588441,Low
+Smith-Anderson,Yes,No,No,Yes,150657,683276,4120116,84456019,Medium
+"Gill, Crawford and Smith",No,Yes,No,Yes,453583,27623227,5548533,42238686,Medium
+Wood-Atkins,No,No,No,Yes,23649,27893462,2277509,34606131,Medium
+Casey Ltd,No,Yes,No,No,587093,21863170,49978,68872860,High
+Buck Group,Yes,Yes,No,No,68481,25155387,2976527,43683581,Low
+"Wilson, Flores and Rosales",Yes,No,Yes,No,477212,18961867,4390860,26609460,Low
+Gamble LLC,Yes,No,Yes,No,709969,16254888,9339758,52544890,High
+"Fischer, Bradley and Jones",No,Yes,Yes,No,559598,49491948,431792,19792393,Low
+Ross Inc,No,No,Yes,No,14130,1842568,4697184,95062332,Low
+Barnes-Owens,No,No,No,No,372748,20657315,2405800,18580254,High
+"Lawrence, Rice and Benson",No,No,No,No,640274,25452822,2367875,37235609,Medium
+Richardson-Jones,No,No,No,Yes,91771,31279756,-406852,42737235,Low
+"Nguyen, Cooper and Delacruz",Yes,Yes,Yes,No,717954,20096756,2862761,15663220,High
+Goodman-Morrison,Yes,No,Yes,No,880365,18109315,3897910,34351860,Medium
+"Chandler, Stanley and Gonzalez",Yes,No,No,No,505237,12458941,2797610,1675814,Low
+Ramirez-Hooper,Yes,No,Yes,Yes,780214,48930729,4265465,96145123,Low
+Valenzuela-Smith,No,Yes,No,Yes,246827,20846409,7391967,23157628,Low
+"Pacheco, Lin and Mcdaniel",No,Yes,No,No,997116,10434061,9646151,60624729,Medium
+"Fuller, Mitchell and Graves",No,Yes,No,Yes,380057,40565627,3926329,55794714,High
+Norton-Johns,Yes,No,No,Yes,22961,32822986,6082371,47907968,High
+Riley Inc,No,No,Yes,No,753074,12506813,482401,45092396,Low
+Castillo PLC,Yes,Yes,Yes,Yes,358270,26107318,5226300,14908804,High
+"Lucas, Dixon and Wise",Yes,Yes,Yes,Yes,440105,49795849,8662697,39286679,Medium
+Castillo PLC,Yes,Yes,No,Yes,865386,6076383,8009184,95363387,Low
+"Long, Smith and Martin",No,No,Yes,Yes,635725,3307779,1047216,54383295,High
+Williams-Brown,Yes,Yes,Yes,Yes,387940,4497096,7878751,29068876,Low
+Henderson Group,No,Yes,Yes,No,993171,18750924,6123514,29639219,Medium
+Love-Anderson,Yes,Yes,Yes,No,846494,48441935,2302222,86597400,Low
+Torres LLC,No,No,No,No,406354,43823248,8017565,20438348,Medium
+"Shea, Ayala and Thompson",No,Yes,No,Yes,950921,14304893,1431601,5632105,Medium
+"Travis, Jones and Hudson",Yes,Yes,Yes,No,770240,20988104,1651737,73781260,Low
+Garcia PLC,No,No,Yes,No,255130,26807311,8731626,99980016,Low
+"Ray, Davis and Williams",Yes,No,No,Yes,742739,2728800,7492171,91009629,High
+Compton-Smith,Yes,No,No,No,960889,16636743,334636,58369983,High
+Reid-Grant,Yes,Yes,Yes,Yes,201824,34581946,-446396,8212521,Low
+"Herrera, Roy and Walker",Yes,No,No,Yes,914385,14057262,9086222,74580579,High
+"Gomez, Dixon and Brewer",Yes,Yes,No,Yes,973261,21101932,9804479,36662689,High
+"Gibson, Bryant and Simpson",Yes,Yes,No,Yes,757666,12451248,1783764,6030003,High
+Schwartz-Meyer,Yes,Yes,No,Yes,109266,5876997,1080715,2424399,Low
+"Collins, Beck and Spencer",Yes,No,Yes,Yes,771936,20945495,5189212,9714463,Medium
+"Nelson, Jordan and Garcia",Yes,No,Yes,No,851001,1059386,3152519,26671757,Low
+Andersen-Parsons,Yes,No,Yes,No,966868,45806023,2702400,66410871,Low
+Sanchez-Torres,No,Yes,Yes,Yes,112954,26553955,6130898,76659221,High
+"Peterson, Morris and Cabrera",No,Yes,Yes,No,285498,35523001,3213975,21358317,High
+Davis Ltd,No,No,No,No,142590,7187857,259558,60371436,Low
+"Roach, Barnett and Johnson",Yes,Yes,Yes,Yes,17504,39052664,2123787,23124616,Medium
+Baker-Oliver,No,No,No,Yes,796337,5865500,9898504,58179564,Medium
