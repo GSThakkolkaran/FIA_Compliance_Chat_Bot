@@ -26,10 +26,10 @@ app.add_middleware(
 
 # Database engine (replace with your actual connection string)
 # SQL Server connection details
-server = "localhost"
-database = "master"
-username = "SA"
-password = "MyStrongPass123"
+server = "Name"
+database = "db"
+username = "usernmae"
+password = "password"
 
 connection_string = (
     f"DRIVER={{ODBC Driver 18 for SQL Server}};"
@@ -46,7 +46,7 @@ engine_azure = create_engine(connection_uri, echo=False)
 
 # Together AI API Details
 API_URL = "https://api.together.xyz/v1/chat/completions"
-API_KEY = "35c48c4d5f73003a9990fdcc01756be7b093b88c6183195706b2de96e8d1d5a5"  # Replace with your API key
+API_KEY = "API Key"  # Replace with your API key
 MODEL_NAME = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
 
 class QueryRequest(BaseModel):
